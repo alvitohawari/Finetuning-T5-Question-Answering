@@ -61,7 +61,6 @@ Due to the large size of the model files (model.safetensors), the complete model
 
 
 ---
-Google Drive Link: https://drive.google.com/drive/folders/1JTbXIL85crFncUY5RvFHPZR0sEp-FQJX?usp=sharing
 ### Training Configuration
 - **Batch Size**: 8
 - **Learning Rate**: 5e-4
