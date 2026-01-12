@@ -54,6 +54,14 @@ We utilize the **SQuAD (Stanford Question Answering Dataset)**, a reading compre
 - **Framework**: PyTorch & Hugging Face Transformers
 - **Fine-tuning Method**: Prefix-Tuning (only prefix tokens are trainable)
 
+
+---
+## Model Availability
+Due to the large size of the model files (model.safetensors), the complete model checkpoint is available via Google Drive: https://drive.google.com/drive/folders/1R0p7kU86WpWRC8rg4aPRBa0D1VdtpJXd?usp=drive_link
+
+
+---
+Google Drive Link: https://drive.google.com/drive/folders/1JTbXIL85crFncUY5RvFHPZR0sEp-FQJX?usp=sharing
 ### Training Configuration
 - **Batch Size**: 8
 - **Learning Rate**: 5e-4
